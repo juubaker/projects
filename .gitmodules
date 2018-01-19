@@ -1,0 +1,9 @@
+[submodule "dynamic"]
+	path = dynamic
+	url = https://github.com/juubaker/projects
+[submodule "git"]
+	path = git
+	url = https://github.com/juubaker/projects
+[submodule "springhib"]
+	path = springhib
+	url = https://github.com/juubaker/projects
